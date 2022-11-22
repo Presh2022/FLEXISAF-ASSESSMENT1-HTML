@@ -1,0 +1,1241 @@
+.signinbuttoninput-container {
+  min-height: 100vh;
+}
+.signinbuttoninput-signinbuttoninput {
+  width: 100%;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 50px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.signinbuttoninput-text {
+  top: 227px;
+  left: 124px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lora;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signinbuttoninput-text02 {
+  top: 318px;
+  left: 112px;
+  color: rgba(13, 17, 24, 0.30000001192092896);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lora;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signinbuttoninput-status-bari-phone13 {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 47px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.signinbuttoninput-left-side {
+  top: 14px;
+  left: 27px;
+  width: 54px;
+  height: 21px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.signinbuttoninput-frame-status-bartime {
+  top: 0px;
+  left: 0px;
+  width: 54px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 24px;
+}
+.signinbuttoninput-text04 {
+  top: 1px;
+  color: rgba(13, 17, 24, 1);
+  width: 54px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  align-self: auto;
+  font-style: Thin;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 100;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signinbuttoninput-right-side {
+  top: 19px;
+  left: 286px;
+  width: 77.40119171142578px;
+  height: 13px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.signinbuttoninput-battery {
+  top: 0px;
+  left: 50px;
+  width: 27.401193618774414px;
+  height: 13px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.signinbuttoninput-outline {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 13px;
+  opacity: 0.35;
+  position: absolute;
+}
+.signinbuttoninput-battery-end {
+  top: 5px;
+  left: 26px;
+  width: 1px;
+  height: 4px;
+  opacity: 0.40;
+  position: absolute;
+}
+.signinbuttoninput-fill {
+  top: 2px;
+  left: 2px;
+  width: 21px;
+  height: 9px;
+  position: absolute;
+}
+.signinbuttoninput-wifi {
+  top: 1px;
+  left: 26px;
+  width: 17px;
+  height: 12px;
+  position: absolute;
+}
+.signinbuttoninput-icon-mobile-signal {
+  top: 1px;
+  left: 0px;
+  width: 18px;
+  height: 12px;
+  position: absolute;
+}
+.signinbuttoninput-rectangle83 {
+  top: 664px;
+  left: 68px;
+  width: 256px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.signinbuttoninput-rectangle81 {
+  top: 309px;
+  left: 41px;
+  width: 308px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(13, 17, 24, 0.30000001192092896);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.signinbuttoninput-rectangle84 {
+  top: 372px;
+  left: 42px;
+  width: 308px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(13, 17, 24, 0.30000001192092896);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.signinbuttoninput-rectangle85 {
+  top: 432px;
+  left: 42px;
+  width: 308px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(13, 17, 24, 0.30000001192092896);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.signinbuttoninput-text06 {
+  top: 673px;
+  left: 167px;
+  color: rgba(248, 248, 248, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Lora;
+  font-weight: 700;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signinbuttoninput-frame7422474logitechlogictechpuzzleicon1 {
+  top: 112px;
+  left: 145px;
+  width: 90px;
+  height: 90px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.signinbuttoninput-logitech {
+  top: 13.500000953674316px;
+  left: 14.895001411437988px;
+  width: 60.21000289916992px;
+  height: 62.999996185302734px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.signinbuttoninput-vector {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 63px;
+  position: absolute;
+}
+.signinbuttoninput-text08 {
+  top: 381px;
+  left: 109px;
+  color: rgba(13, 17, 24, 0.30000001192092896);
+  width: 211px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Lora;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signinbuttoninput-password {
+  top: 448px;
+  left: 109px;
+  width: 136px;
+  height: 10px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.signinbuttoninput-ellipse1 {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.signinbuttoninput-ellipse2 {
+  top: 0px;
+  left: 14px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.signinbuttoninput-ellipse3 {
+  top: 0px;
+  left: 28px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.signinbuttoninput-ellipse4 {
+  top: 0px;
+  left: 42px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.signinbuttoninput-ellipse5 {
+  top: 0px;
+  left: 56px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.signinbuttoninput-ellipse6 {
+  top: 0px;
+  left: 70px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.signinbuttoninput-ellipse7 {
+  top: 0px;
+  left: 84px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.signinbuttoninput-ellipse8 {
+  top: 0px;
+  left: 98px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.signinbuttoninput-ellipse9 {
+  top: 0px;
+  left: 112px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.signinbuttoninput-ellipse10 {
+  top: 0px;
+  left: 126px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.signinbuttoninput-frame4092561envelopemailmobileuimessageemailicon1 {
+  top: 383px;
+  left: 65px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.signinbuttoninput-mail {
+  top: 3.745562791824341px;
+  left: 1.25px;
+  width: 17.5px;
+  height: 12.504436492919922px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.signinbuttoninput-vector01 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 13px;
+  position: absolute;
+}
+.signinbuttoninput-frame115724keylockpasswordlockedsecureicon1 {
+  top: 442px;
+  left: 65px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.signinbuttoninput-key {
+  top: 0px;
+  left: 0.625px;
+  width: 20.002500534057617px;
+  height: 20px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.signinbuttoninput-vector02 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.signinbuttoninput-vector03 {
+  top: 2.5021579265594482px;
+  left: 12.501250267028809px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.signinbuttoninput-frame8324223uiessentialappavatarprofileicon1 {
+  top: 320px;
+  left: 64px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.signinbuttoninput-group {
+  top: 0.625px;
+  left: 0.625px;
+  width: 18.75px;
+  height: 18.75px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.signinbuttoninput-vector04 {
+  top: 0px;
+  left: 0px;
+  width: 19px;
+  height: 19px;
+  position: absolute;
+}
+.signinbuttoninput-vector05 {
+  top: 10px;
+  left: 3.125px;
+  width: 12px;
+  height: 6px;
+  position: absolute;
+}
+.signinbuttoninput-vector06 {
+  top: 2.5px;
+  left: 5.625px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+}
+.signinbuttoninput-ellipse18 {
+  top: -150px;
+  left: -204px;
+  width: 970px;
+  height: 1080px;
+  position: absolute;
+}
+.signinbuttoninput-home-indicator {
+  top: 828px;
+  left: 128px;
+  width: 134px;
+  height: 5px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 100px;
+}
+.signinbuttoninput-frame7422474logitechlogictechpuzzleicon2 {
+  top: 112px;
+  left: 150px;
+  width: 90px;
+  height: 90px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.signinbuttoninput-logitech1 {
+  top: 13.500000953674316px;
+  left: 14.895001411437988px;
+  width: 60.21000289916992px;
+  height: 62.999996185302734px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.signinbuttoninput-vector07 {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 63px;
+  position: absolute;
+}
+.signinbuttoninput-text10 {
+  top: 313px;
+  left: 110px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signinbuttoninput-navlink {
+  display: contents;
+}
+.signinbuttoninput-rectangle78 {
+  top: 673px;
+  left: 131px;
+  width: 125px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+  text-decoration: none;
+}
+.signinbuttoninput-rectangle79 {
+  top: 344px;
+  left: 349px;
+  width: 308px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.signinbuttoninput-text12 {
+  top: 682px;
+  left: 169px;
+  color: rgba(248, 248, 248, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signinbuttoninput-text14 {
+  top: 566px;
+  left: 45px;
+  color: rgba(248, 248, 248, 0.800000011920929);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signinbuttoninput-text15 {
+  font-weight: 400;
+  text-decoration: NONE;
+}
+.signinbuttoninput-google {
+  top: 313px;
+  left: 76px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.signinbuttoninput-vector08 {
+  top: 5.570001602172852px;
+  left: 0.21337890625px;
+  width: 4px;
+  height: 9px;
+  position: absolute;
+}
+.signinbuttoninput-vector09 {
+  top: 0px;
+  left: 1.2403106689453125px;
+  width: 16px;
+  height: 8px;
+  position: absolute;
+}
+.signinbuttoninput-vector10 {
+  top: 11.856403350830078px;
+  left: 1.240234375px;
+  width: 16px;
+  height: 8px;
+  position: absolute;
+}
+.signinbuttoninput-vector11 {
+  top: 8.181877136230469px;
+  left: 10.2275390625px;
+  width: 10px;
+  height: 9px;
+  position: absolute;
+}
+.signinbuttoninput-text17 {
+  top: 748px;
+  left: 29px;
+  color: rgba(248, 248, 248, 0.800000011920929);
+  width: 330px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signinbuttoninput-text24 {
+  top: 227px;
+  left: 124px;
+  color: rgba(248, 248, 248, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lora;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signinbuttoninput-rectangle88 {
+  top: 419px;
+  left: 42px;
+  width: 308px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(248, 248, 248, 0.699999988079071);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.signinbuttoninput-rectangle89 {
+  top: 479px;
+  left: 42px;
+  width: 308px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(248, 248, 248, 0.699999988079071);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.signinbuttoninput-text26 {
+  top: 428px;
+  left: 109px;
+  color: rgba(248, 248, 248, 0.699999988079071);
+  width: 211px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signinbuttoninput-text28 {
+  top: 523px;
+  left: 242px;
+  color: rgba(248, 248, 248, 0.699999988079071);
+  width: 145px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signinbuttoninput-password1 {
+  top: 495px;
+  left: 109px;
+  width: 136px;
+  height: 10px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.signinbuttoninput-ellipse11 {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.signinbuttoninput-ellipse21 {
+  top: 0px;
+  left: 14px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.signinbuttoninput-ellipse31 {
+  top: 0px;
+  left: 28px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.signinbuttoninput-ellipse41 {
+  top: 0px;
+  left: 42px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.signinbuttoninput-ellipse51 {
+  top: 0px;
+  left: 56px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.signinbuttoninput-ellipse61 {
+  top: 0px;
+  left: 70px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.signinbuttoninput-ellipse71 {
+  top: 0px;
+  left: 84px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.signinbuttoninput-ellipse81 {
+  top: 0px;
+  left: 98px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.signinbuttoninput-ellipse91 {
+  top: 0px;
+  left: 112px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.signinbuttoninput-ellipse101 {
+  top: 0px;
+  left: 126px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-color: transparent;
+}
+.signinbuttoninput-text30 {
+  top: 390px;
+  left: 45px;
+  color: rgba(248, 248, 248, 0.699999988079071);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signinbuttoninput-frame4092561envelopemailmobileuimessageemailicon2 {
+  top: 430px;
+  left: 65px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.signinbuttoninput-mail1 {
+  top: 3.745562791824341px;
+  left: 1.25px;
+  width: 17.5px;
+  height: 12.504436492919922px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.signinbuttoninput-vector12 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 13px;
+  position: absolute;
+}
+.signinbuttoninput-frame115724keylockpasswordlockedsecureicon2 {
+  top: 489px;
+  left: 65px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.signinbuttoninput-key1 {
+  top: 0px;
+  left: 0.625px;
+  width: 20.002500534057617px;
+  height: 20px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.signinbuttoninput-vector13 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.signinbuttoninput-vector14 {
+  top: 2.5021579265594482px;
+  left: 12.501250267028809px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.signinbuttoninput-line7 {
+  top: 364.0000305175781px;
+  left: 42px;
+  width: 309px;
+  height: 0px;
+  position: absolute;
+}
+.signinbuttoninput-see {
+  top: 65px;
+  left: 46px;
+  width: 11px;
+  height: 17px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.signinbuttoninput-line13 {
+  top: 0px;
+  left: 0px;
+  width: 14px;
+  height: 0px;
+  position: absolute;
+}
+.signinbuttoninput-line14 {
+  top: 8.5px;
+  left: -11px;
+  width: 14px;
+  height: 0px;
+  position: absolute;
+}
+.signinbuttoninput-status-bari-phone14 {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 47px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.signinbuttoninput-left-side1 {
+  top: 14px;
+  left: 27px;
+  width: 54px;
+  height: 21px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.signinbuttoninput-frame-status-bartime1 {
+  top: 0px;
+  left: 0px;
+  width: 54px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 24px;
+}
+.signinbuttoninput-text32 {
+  top: 1px;
+  color: var(--dl-color-labelcolor_dark-primary);
+  width: 54px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: center;
+  font-family: SF Pro Text;
+  font-weight: 600;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.signinbuttoninput-right-side1 {
+  top: 19px;
+  left: 286px;
+  width: 77.40119171142578px;
+  height: 13px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.signinbuttoninput-battery1 {
+  top: 0px;
+  left: 50px;
+  width: 27.401193618774414px;
+  height: 13px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.signinbuttoninput-outline1 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 13px;
+  opacity: 0.35;
+  position: absolute;
+}
+.signinbuttoninput-battery-end1 {
+  top: 5px;
+  left: 26px;
+  width: 1px;
+  height: 4px;
+  opacity: 0.40;
+  position: absolute;
+}
+.signinbuttoninput-fill1 {
+  top: 2px;
+  left: 2px;
+  width: 21px;
+  height: 9px;
+  position: absolute;
+}
+.signinbuttoninput-wifi1 {
+  top: 1px;
+  left: 26px;
+  width: 17px;
+  height: 12px;
+  position: absolute;
+}
+.signinbuttoninput-icon-mobile-signal1 {
+  top: 1px;
+  left: 0px;
+  width: 18px;
+  height: 12px;
+  position: absolute;
+}

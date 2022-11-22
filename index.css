@@ -1,0 +1,56 @@
+.index-container {
+  min-height: 100vh;
+}
+.index-onboardingscreenbuttoninput {
+  width: 100%;
+  height: 852px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 50px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.index-ellipse17 {
+  top: -64px;
+  left: -248px;
+  width: 970px;
+  height: 970px;
+  position: absolute;
+  border-color: transparent;
+}
+.index-logitech {
+  top: 360px;
+  left: 165px;
+  width: 60.21000289916992px;
+  height: 62.999996185302734px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.index-navlink {
+  display: contents;
+}
+.index-vector {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 63px;
+  position: absolute;
+  text-decoration: none;
+}
